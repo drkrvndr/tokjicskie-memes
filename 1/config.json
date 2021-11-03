@@ -1,0 +1,29 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "c3141f1b5fa21e80db13fac3d0b49a01825a631129245c48fca3589aca3066c96f21a6015b7b96797d4de",
+				"group_id": "vatafaccc",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"longpoll": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discordapp.com/api/webhooks/820342912411631646/SFXK_iR15Cw-ZLg2jSIFdrtWrc8gwwmsNUsNfoKdDccImFVe-YYfCV_mVz8-nfddqKdZ"
+				],
+				"username": "",
+				"avatar_url": "",
+				"content": "",
+				"color": "#7d1414",
+				"author": false,
+				"copyright": false
+			}
+		}
+	],
+	"version_dont_modify_me": 4
+}
